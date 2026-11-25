@@ -39,11 +39,11 @@ And nobody treats their own family or teachers like celebrities.
 
   This memoir will never be sold for profit.
 
-  It is a pure human experience. Even the cover was drawn by hand. (`https://github.com/TaylorAlaska/it-started-in-alaska`) 
+  It is a pure human experience. Even the cover was drawn by hand. [It Started in Alaska Repository](https://github.com/TaylorAlaska/it-started-in-alaska)
 
 * **Human and AI Animation Collab: *Puli Space Monk***: Puli Space Monk is the first ever show made with Elon Musk's xAI Grok software, creating original animated episodes and world-building. The music, voices, animation, even the subtitles were done solo by me with the earliest models of AI software in 2025. Just me and AI. 
 
-  The difficulties and journey were thoroughly documented and compiled on the Puli Space Monk GitHub. This will give a glance into one of the first humans to work hand in hand with AI programs for music, character design, voice creation, dialogue, and story animation. (`https://github.com/Puli-Space-Monk/puli-space-monk`)
+  The difficulties and journey were thoroughly documented and compiled on the [Puli Space Monk Repository](https://github.com/Puli-Space-Monk/puli-space-monk). This will give a glance into one of the first humans to work hand in hand with AI programs for music, character design, voice creation, dialogue, and story animation.
 
 * **Other Real-World Experience:**
   I also founded ECOwatercraft, the company that produced and documented the first ever Lithium Cell Battery powered electric jet ski prototype. 
